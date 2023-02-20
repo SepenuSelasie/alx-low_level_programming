@@ -8,10 +8,10 @@
  */
 int  main(void)
 {
-	sizeof (int);
-	sizeof (char);
-	sizeof (float);
-	sizeof (long int);
-	sizeof (long long int);
+	sizeof(int);
+	sizeof(char);
+	sizeof(float);
+	sizeof(long int);
+	sizeof(long long int);
 		return (0);
 }
