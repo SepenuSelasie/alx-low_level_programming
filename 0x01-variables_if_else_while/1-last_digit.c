@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - Program determines whether or not the last value is greater than or less than 0
+ * main - Program determines whether or not the last value is greater than
  *
- * Descritpion: Program determines if the last number is great,less or equal to zero
+ * Descritpion: Program determines if the last number is great,less than zero
  *
  * Return: Always 0 (Success)
  */
