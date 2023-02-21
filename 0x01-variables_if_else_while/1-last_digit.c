@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ * main - Program determines whether or not the last value is greater than or less than 0
+ *
+ * Descritpion: Program determines if the last number is great,less or equal to zero
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n, last;
@@ -14,7 +18,7 @@ int main(void)
 	if (last > 5)
 		printf("Last digit of %d is %d and is greater than 5\n", n, last);
 	else if (last == 0)
-		printf("LAst digit of %d is %d and is 0\n", n, last);
+		printf("Last digit of %d is %d and is 0\n", n, last);
 	else if (last < 6 && last != 0)
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, last);
 	return (0);
