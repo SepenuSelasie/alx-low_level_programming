@@ -1,1 +1,1 @@
-This directory basically dwells on the functions of C programming and nested loops .
+This file contains programs that are created based on the principle of functions and nested loops
