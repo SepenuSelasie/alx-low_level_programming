@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print-alphabet_x10 - Make alphabets x10 times
+ * print_alphabet_x10 - Make alphabets x10 times
  *
  * Description: print_alphabet_x10 allows printig of letters
  *
