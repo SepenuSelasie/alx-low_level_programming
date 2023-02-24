@@ -2,9 +2,8 @@
 #include <unistd.h>
 
 /**
- * main - print quote 
- *
- * Description: prints doras quote 
+ * main - print quote
+ * Description: prints doras quote
  *
  * Return: Always 1 (Sucess)
  */
